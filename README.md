@@ -1,5 +1,5 @@
 # Calebcampbell5.github.io
-Made a cool startup page.
+Made a cool fully reactive starup page.
 Technology used:
 1. HTML
 2. CSS
